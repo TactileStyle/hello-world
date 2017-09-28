@@ -1,3 +1,3 @@
 # hello-world
-A brief description<h>
+A brief description
 A bit about yourself
